@@ -1,1 +1,1 @@
-alert("EXTERNO");
+alert("EXTERNO GIT RAW");
